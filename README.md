@@ -1,4 +1,4 @@
-# Energy-meter (under progress)
+# Energy-meter (in progress)
 My energy meter has a LED that flashes each time I have consumed 1Wh of energy. This project uses an Arduino nano and a photocell to detect each pulse and calculates the momentary power and current as well as displaying the elapsed watt hours.
 
 Right now the values is displayed on a 16x2 LCD screen communicating with a Arduino nano via the I2C protocol. 
